@@ -8,5 +8,7 @@ based on different types of metric
 ! Cuckoo Algorithm
 @@(Tabu Search algorithm)@@
 ```
-<span style="color:orange;">Word up</span>
 
+```html
+<span style="color:orange;">Word up</span>
+```

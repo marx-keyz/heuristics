@@ -3,12 +3,6 @@ This repository contains methods of using different algorithms institutions can 
 based on different types of metric
 
 ## Algorithms Explored
-```diff
-+Genetic Algorithm
-! Cuckoo Algorithm
-@@(Tabu Search algorithm)@@
-```
-
-```html
-<span style="color:orange;">Word up</span>
-```
+- Genetic Algorithm
+- Cuckoo Algorithm
+- Tabu Search algorithm

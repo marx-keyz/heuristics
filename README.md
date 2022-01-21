@@ -3,10 +3,9 @@ This repository contains methods of using different algorithms institutions can 
 based on different types of metric
 
 ```diff
-#Algorithms Explored
-+ Genetic Algorithm
+(Algorithms Explored)
++Genetic Algorithm
 ! Cuckoo Algorithm
-# Tabu Search algorithm
-@@ text in purple (and bold)@@
+@@(Tabu Search algorithm)@@
 ```
 
